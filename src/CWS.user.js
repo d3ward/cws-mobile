@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        New script - google.com
+// @name        Mobile Friendly CWS
 // @namespace   Violentmonkey Scripts
 // @match       https://chrome.google.com/webstore
 // @grant       none
 // @version     1.0
 // @author      d3ward
-// @description 17/1/2020, 22:11:38
+// @description 21/05/2020, 18:11:38
 // ==/UserScript==
 
 console.log("TEST");
