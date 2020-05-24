@@ -7,7 +7,7 @@ because actually on mobile when you want to install an extension the website is 
 
 ## How to inject the script
 
-- With Violentmonkey ( wip )
+- With Violentmonkey ( not working )
 
     First you need an userscript manager extension
     My reccomended one is [Violentmonkey](https://violentmonkey.github.io/) wich works very well on Kiwi Browser
